@@ -49,7 +49,7 @@ export default function App() {
           <span className="hero-deco hero-deco-a" aria-hidden="true" />
           <span className="hero-deco hero-deco-b" aria-hidden="true" />
           <span className="hero-deco hero-deco-c" aria-hidden="true" />
-          <span className="eyebrow">SaaS Analytics</span>
+          <span className="eyebrow">Serviço de Streaming Fictício</span>
           <h1>Painel Serviço Assinatura</h1>
           <div className="hero-meta">
             <span className="chip">
